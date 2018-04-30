@@ -30,7 +30,7 @@ You should make sure that `docker` and `docker-compose` command has been install
 
 1. Clone or download this repository
 2. Navigate your terminal prompt to that folder
-3. Execute this command to fetch the container dependencies image if You never use Docker before then run it locally
+3. Execute this command to fetch the container dependencies image if You never use Docker before. After that docker will automatically run that container.
 
   `docker-compose -d up`
 
