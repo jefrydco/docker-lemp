@@ -32,13 +32,13 @@ You should make sure that `docker` and `docker-compose` command has been install
 2. Navigate your terminal prompt to that folder
 3. Execute this command to fetch the container dependencies image if You never use Docker before then run it locally
 
-`docker-compose -d up`
+  `docker-compose -d up`
 
 4. Access
    - `localhost:8080` is used for serving the webserver.
    - `localhost:8000` to access phpMyAdmin
 
    Credentials for phpMyAdmin
-   Server: mariadb
-   Username: root
-   Password: admin123
+   - Server: mariadb
+   - Username: root
+   - Password: admin123
